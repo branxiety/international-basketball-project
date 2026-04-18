@@ -1,1 +1,3 @@
 # international-basketball-project
+## NBA Draft Scraper
+This scraper.py scrapes NBA draft data from the last decade (2015-2024). It collects each player's pick #, name, career win shares, and VORP. The latter two are advanced statistics I plan to use in testing my hypothesis that international players have been undervalued in the draft. This will be done by creating an expected value for each player based on draft position and average Win Share, and combining with another database that contains nationality to create a regression out of U.S. players and international players to see if international players outperform their expected values.

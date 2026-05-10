@@ -1,0 +1,26 @@
+total picks: 594
+intl picks:  128 (21.5%)
+mean career WS, domestic:      9.14
+mean career WS, international: 9.59
+median pick, domestic:      31
+median pick, international: 27
+intl share of minutes, 2015: 21.8%
+intl share of minutes, 2024: 22.2%
+
+top countries:
+  Canada: 18
+  France: 17
+  Australia: 7
+  Croatia: 6
+  Germany: 6
+  Serbia: 6
+  Nigeria: 4
+  Turkey: 4
+  Spain: 4
+  Cameroon: 4
+
+value per pick bucket:
+  1-5: dom=21.16, intl=24.01
+  6-14: dom=16.04, intl=16.14
+  15-30: dom=10.76, intl=9.58
+  31-60: dom=4.31, intl=4.37

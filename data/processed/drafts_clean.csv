@@ -1,0 +1,595 @@
+player_key,player_name,draft_year,pick,ws,vorp
+karl anthony towns,Karl-Anthony Towns,2015,1,94.6,38.5
+d angelo russell,D'Angelo Russell,2015,2,26.5,12.4
+jahlil okafor,Jahlil Okafor,2015,3,7.2,0.0
+kristaps porzingis,Kristaps Porziņģis,2015,4,50.4,18.9
+mario hezonja,Mario Hezonja,2015,5,3.2,-1.2
+willie cauley stein,Willie Cauley-Stein,2015,6,23.3,4.4
+emmanuel mudiay,Emmanuel Mudiay,2015,7,-0.2,-2.2
+stanley johnson,Stanley Johnson,2015,8,6.9,-1.6
+frank kaminsky,Frank Kaminsky,2015,9,15.9,3.7
+justise winslow,Justise Winslow,2015,10,8.2,-0.3
+myles turner,Myles Turner,2015,11,51.7,13.5
+trey lyles,Trey Lyles,2015,12,22.0,3.0
+devin booker,Devin Booker,2015,13,58.0,20.2
+cameron payne,Cameron Payne,2015,14,14.8,3.2
+kelly oubre,Kelly Oubre Jr.,2015,15,27.6,0.8
+terry rozier,Terry Rozier,2015,16,30.6,10.1
+rashad vaughn,Rashad Vaughn,2015,17,-0.6,-1.2
+sam dekker,Sam Dekker,2015,18,5.4,0.5
+jerian grant,Jerian Grant,2015,19,8.3,0.5
+delon wright,Delon Wright,2015,20,28.9,11.1
+justin anderson,Justin Anderson,2015,21,4.9,0.4
+bobby portis,Bobby Portis,2015,22,36.6,6.8
+rondae hollis jefferson,Rondae Hollis-Jefferson,2015,23,12.9,2.3
+tyus jones,Tyus Jones,2015,24,34.9,9.2
+jarell martin,Jarell Martin,2015,25,3.2,-1.7
+nikola milutinov,Nikola Milutinov,2015,26,0.0,0.0
+larry nance,Larry Nance Jr.,2015,27,35.2,10.1
+r j hunter,R.J. Hunter,2015,28,0.4,0.0
+chris mccullough,Chris McCullough,2015,29,0.6,-0.1
+kevon looney,Kevon Looney,2015,30,38.1,6.2
+cedi osman,Cedi Osman,2015,31,12.5,-0.3
+montrezl harrell,Montrezl Harrell,2015,32,42.9,12.2
+jordan mickey,Jordan Mickey,2015,33,0.5,-0.3
+anthony brown,Anthony Brown,2015,34,-0.2,-0.6
+willy hernangomez,Willy Hernangómez,2015,35,16.3,2.8
+rakeem christmas,Rakeem Christmas,2015,36,0.5,-0.2
+richaun holmes,Richaun Holmes,2015,37,30.7,5.0
+darrun hilliard,Darrun Hilliard,2015,38,0.3,-0.6
+juan pablo vaulet,Juan Pablo Vaulet,2015,39,0.0,0.0
+josh richardson,Josh Richardson,2015,40,27.7,5.5
+pat connaughton,Pat Connaughton,2015,41,25.3,4.5
+olivier hanlan,Olivier Hanlan,2015,42,0.0,0.0
+joe young,Joe Young,2015,43,0.4,-0.6
+andrew harrison,Andrew Harrison,2015,44,3.2,-0.6
+marcus thornton,Marcus Thornton,2015,45,0.0,0.0
+norman powell,Norman Powell,2015,46,36.4,9.2
+arturas gudaitis,Artūras Gudaitis,2015,47,0.0,0.0
+dakari johnson,Dakari Johnson,2015,48,0.6,0.1
+aaron white,Aaron White,2015,49,0.0,0.0
+marcus eriksson,Marcus Eriksson,2015,50,0.0,0.0
+tyler harvey,Tyler Harvey,2015,51,0.0,0.0
+satnam singh,Satnam Singh,2015,52,0.0,0.0
+sir dominic pointer,Sir'Dominic Pointer,2015,53,0.0,0.0
+dani diez,Dani Díez,2015,54,0.0,0.0
+cady lalanne,Cady Lalanne,2015,55,0.0,0.0
+branden dawson,Branden Dawson,2015,56,0.0,0.0
+nikola radicevic,Nikola Radičević,2015,57,0.0,0.0
+j p tokoto,J.P. Tokoto,2015,58,0.0,0.0
+dimitrios agravanis,Dimitrios Agravanis,2015,59,0.0,0.0
+luka mitrovic,Luka Mitrović,2015,60,0.0,0.0
+ben simmons,Ben Simmons,2016,1,35.4,15.0
+brandon ingram,Brandon Ingram,2016,2,31.8,10.3
+jaylen brown,Jaylen Brown,2016,3,47.5,14.1
+dragan bender,Dragan Bender,2016,4,0.5,-1.9
+kris dunn,Kris Dunn,2016,5,15.7,2.8
+buddy hield,Buddy Hield,2016,6,28.7,11.7
+jamal murray,Jamal Murray,2016,7,47.6,16.5
+marquese chriss,Marquese Chriss,2016,8,6.5,-0.5
+jakob poeltl,Jakob Poeltl,2016,9,48.5,11.9
+thon maker,Thon Maker,2016,10,6.6,-0.1
+domantas sabonis,Domantas Sabonis,2016,11,71.0,27.6
+taurean prince,Taurean Prince,2016,12,15.5,-0.3
+georgios papagiannis,Georgios Papagiannis,2016,13,0.4,-0.2
+denzel valentine,Denzel Valentine,2016,14,4.5,0.2
+juancho hernangomez,Juancho Hernangómez,2016,15,8.7,0.1
+guerschon yabusele,Guerschon Yabusele,2016,16,6.4,0.4
+wade baldwin,Wade Baldwin,2016,17,-0.3,-0.5
+henry ellenson,Henry Ellenson,2016,18,0.4,-0.3
+malik beasley,Malik Beasley,2016,19,20.1,3.7
+caris levert,Caris LeVert,2016,20,25.4,7.0
+deandre bembry,DeAndre' Bembry,2016,21,4.4,-0.4
+malachi richardson,Malachi Richardson,2016,22,-0.1,-0.7
+ante zizic,Ante Žižić,2016,23,3.5,-0.2
+timothe luwawu cabarrot,Timothé Luwawu-Cabarrot,2016,24,4.7,-2.7
+brice johnson,Brice Johnson,2016,25,0.1,0.0
+furkan korkmaz,Furkan Korkmaz,2016,26,7.6,0.1
+pascal siakam,Pascal Siakam,2016,27,58.1,21.0
+skal labissiere,Skal Labissière,2016,28,4.5,-0.2
+dejounte murray,Dejounte Murray,2016,29,26.8,12.9
+damian jones,Damian Jones,2016,30,11.3,1.0
+deyonta davis,Deyonta Davis,2016,31,3.6,0.0
+ivica zubac,Ivica Zubac,2016,32,55.5,10.4
+cheick diallo,Cheick Diallo,2016,33,6.3,0.3
+tyler ulis,Tyler Ulis,2016,34,0.5,-1.1
+rade zagorac,Rade Zagorac,2016,35,0.0,0.0
+malcolm brogdon,Malcolm Brogdon,2016,36,33.4,11.2
+chinanu onuaku,Chinanu Onuaku,2016,37,0.1,-0.1
+patrick mccaw,Patrick McCaw,2016,38,4.4,-0.6
+david michineau,David Michineau,2016,39,0.0,0.0
+diamond stone,Diamond Stone,2016,40,-0.1,-0.1
+stephen zimmerman,Stephen Zimmerman,2016,41,0.0,-0.2
+isaiah whitehead,Isaiah Whitehead,2016,42,-0.9,-1.4
+zhou qi,Zhou Qi,2016,43,-0.2,-0.2
+isaia cordinier,Isaïa Cordinier,2016,44,0.0,0.0
+demetrius jackson,Demetrius Jackson,2016,45,0.2,0.1
+a j hammons,A.J. Hammons,2016,46,0.0,-0.2
+jake layman,Jake Layman,2016,47,3.8,-0.2
+paul zipser,Paul Zipser,2016,48,0.0,-1.4
+michael gbinije,Michael Gbinije,2016,49,-0.1,-0.1
+georges niang,Georges Niang,2016,50,15.9,0.7
+ben bentil,Ben Bentil,2016,51,-0.1,-0.1
+joel bolomboy,Joel Bolomboy,2016,52,0.3,0.0
+petr cornelie,Petr Cornelie,2016,53,0.0,-0.1
+kay felder,Kay Felder,2016,54,-0.4,-0.4
+marcus paige,Marcus Paige,2016,55,0.0,0.0
+daniel hamilton,Daniel Hamilton,2016,56,0.0,-0.1
+wang zhelin,Wang Zhelin,2016,57,0.0,0.0
+abdel nader,Abdel Nader,2016,58,2.8,-0.4
+isaiah cousins,Isaiah Cousins,2016,59,0.0,0.0
+tyrone wallace,Tyrone Wallace,2016,60,0.1,-1.4
+markelle fultz,Markelle Fultz,2017,1,8.3,1.1
+lonzo ball,Lonzo Ball,2017,2,13.3,6.9
+jayson tatum,Jayson Tatum,2017,3,67.2,30.3
+josh jackson,Josh Jackson,2017,4,-1.7,-3.1
+de aaron fox,De'Aaron Fox,2017,5,40.3,15.1
+jonathan isaac,Jonathan Isaac,2017,6,14.9,4.3
+lauri markkanen,Lauri Markkanen,2017,7,36.7,12.2
+frank ntilikina,Frank Ntilikina,2017,8,0.3,-3.4
+dennis smith,Dennis Smith Jr.,2017,9,2.3,-0.2
+zach collins,Zach Collins,2017,10,12.4,1.0
+malik monk,Malik Monk,2017,11,16.1,3.1
+luke kennard,Luke Kennard,2017,12,28.1,6.3
+donovan mitchell,Donovan Mitchell,2017,13,60.2,29.4
+bam adebayo,Bam Adebayo,2017,14,64.0,22.2
+justin jackson,Justin Jackson,2017,15,5.3,-1.0
+justin patton,Justin Patton,2017,16,0.4,-0.1
+d j wilson,D.J. Wilson,2017,17,2.9,-0.2
+t j leaf,T.J. Leaf,2017,18,2.7,0.1
+john collins,John Collins,2017,19,43.8,10.0
+harry giles,Harry Giles,2017,20,3.1,-0.2
+terrance ferguson,Terrance Ferguson,2017,21,4.4,-2.1
+jarrett allen,Jarrett Allen,2017,22,73.1,19.4
+og anunoby,OG Anunoby,2017,23,37.6,10.5
+tyler lydon,Tyler Lydon,2017,24,0.2,-0.1
+anzejs pasecniks,Anžejs Pasečņiks,2017,25,0.4,-0.5
+caleb swanigan,Caleb Swanigan,2017,26,-0.2,-0.7
+kyle kuzma,Kyle Kuzma,2017,27,16.3,1.8
+tony bradley,Tony Bradley,2017,28,8.9,1.0
+derrick white,Derrick White,2017,29,46.7,18.4
+josh hart,Josh Hart,2017,30,42.8,12.6
+frank jackson,Frank Jackson,2017,31,2.5,-1.9
+davon reed,Davon Reed,2017,32,1.5,-0.3
+wes iwundu,Wes Iwundu,2017,33,4.2,-1.8
+frank mason,Frank Mason III,2017,34,1.2,-0.3
+ivan rabb,Ivan Rabb,2017,35,3.2,0.1
+jonah bolden,Jonah Bolden,2017,36,1.4,0.1
+semi ojeleye,Semi Ojeleye,2017,37,5.2,-1.5
+jordan bell,Jordan Bell,2017,38,4.9,1.1
+jawun evans,Jawun Evans,2017,39,-0.4,-0.7
+dwayne bacon,Dwayne Bacon,2017,40,0.8,-3.1
+tyler dorsey,Tyler Dorsey,2017,41,1.1,-0.5
+thomas bryant,Thomas Bryant,2017,42,22.7,4.9
+isaiah hartenstein,Isaiah Hartenstein,2017,43,33.3,9.4
+damyean dotson,Damyean Dotson,2017,44,3.0,-0.9
+dillon brooks,Dillon Brooks,2017,45,16.8,-5.2
+sterling brown,Sterling Brown,2017,46,6.6,-0.1
+ike anigbogu,Ike Anigbogu,2017,47,0.0,0.0
+sindarius thornwell,Sindarius Thornwell,2017,48,1.1,-0.5
+vlatko cancar,Vlatko Čančar,2017,49,2.4,-0.2
+mathias lessort,Mathias Lessort,2017,50,0.0,0.0
+monte morris,Monte Morris,2017,51,24.7,5.6
+edmond sumner,Edmond Sumner,2017,52,3.2,-0.6
+kadeem allen,Kadeem Allen,2017,53,1.0,0.1
+alec peters,Alec Peters,2017,54,0.3,0.0
+nigel williams goss,Nigel Williams-Goss,2017,55,0.0,0.0
+jabari bird,Jabari Bird,2017,56,0.2,0.0
+sasha vezenkov,Sasha Vezenkov,2017,57,1.0,0.1
+ognjen jaramaz,Ognjen Jaramaz,2017,58,0.0,0.0
+jaron blossomgame,Jaron Blossomgame,2017,59,0.3,-0.2
+alpha kaba,Alpha Kaba,2017,60,0.0,0.0
+deandre ayton,Deandre Ayton,2018,1,43.8,9.2
+marvin bagley,Marvin Bagley III,2018,2,16.3,1.5
+luka doncic,Luka Dončić,2018,3,66.6,44.8
+jaren jackson,Jaren Jackson Jr.,2018,4,30.2,9.2
+trae young,Trae Young,2018,5,44.7,19.7
+mo bamba,Mo Bamba,2018,6,15.7,3.0
+wendell carter,Wendell Carter Jr.,2018,7,33.3,5.3
+collin sexton,Collin Sexton,2018,8,19.7,3.0
+kevin knox,Kevin Knox,2018,9,0.9,-3.4
+mikal bridges,Mikal Bridges,2018,10,50.0,15.8
+shai gilgeous alexander,Shai Gilgeous-Alexander,2018,11,75.6,36.9
+miles bridges,Miles Bridges,2018,12,27.8,8.2
+jerome robinson,Jerome Robinson,2018,13,-0.2,-1.2
+michael porter,Michael Porter Jr.,2018,14,29.4,8.9
+troy brown,Troy Brown Jr.,2018,15,8.6,0.4
+zhaire smith,Zhaire Smith,2018,16,0.0,-0.1
+donte divincenzo,Donte DiVincenzo,2018,17,29.1,10.1
+lonnie walker,Lonnie Walker IV,2018,18,4.9,-1.0
+kevin huerter,Kevin Huerter,2018,19,21.7,4.1
+josh okogie,Josh Okogie,2018,20,14.2,0.6
+grayson allen,Grayson Allen,2018,21,26.4,6.6
+chandler hutchison,Chandler Hutchison,2018,22,1.1,-0.9
+aaron holiday,Aaron Holiday,2018,23,11.6,0.1
+anfernee simons,Anfernee Simons,2018,24,15.7,2.9
+moritz wagner,Moritz Wagner,2018,25,17.9,3.4
+landry shamet,Landry Shamet,2018,26,15.7,0.4
+robert williams,Robert Williams,2018,27,28.3,9.6
+jacob evans,Jacob Evans,2018,28,-0.6,-0.8
+dzanan musa,Džanan Musa,2018,29,0.0,-0.4
+omari spellman,Omari Spellman,2018,30,2.4,0.2
+elie okobo,Elie Okobo,2018,31,0.5,-0.9
+jevon carter,Jevon Carter,2018,32,9.4,1.0
+jalen brunson,Jalen Brunson,2018,33,54.2,18.8
+devonte graham,Devonte' Graham,2018,34,12.7,3.2
+melvin frazier,Melvin Frazier,2018,35,-0.4,-0.6
+mitchell robinson,Mitchell Robinson,2018,36,41.0,10.1
+gary trent,Gary Trent Jr.,2018,37,19.0,1.4
+khyri thomas,Khyri Thomas,2018,38,0.5,-0.1
+isaac bonga,Isaac Bonga,2018,39,1.7,-0.7
+rodions kurucs,Rodions Kurucs,2018,40,2.3,-0.4
+jarred vanderbilt,Jarred Vanderbilt,2018,41,18.6,3.3
+bruce brown,Bruce Brown,2018,42,22.9,1.3
+justin jackson,Justin Jackson,2018,43,0.0,0.0
+issuf sanon,Issuf Sanon,2018,44,0.0,0.0
+hamidou diallo,Hamidou Diallo,2018,45,6.2,-0.1
+de anthony melton,De'Anthony Melton,2018,46,15.0,5.2
+svi mykhailiuk,Svi Mykhailiuk,2018,47,5.3,-0.6
+keita bates diop,Keita Bates-Diop,2018,48,7.4,0.5
+chimezie metu,Chimezie Metu,2018,49,5.7,0.3
+alize johnson,Alize Johnson,2018,50,1.3,-0.1
+tony carr,Tony Carr,2018,51,0.0,0.0
+vince edwards,Vince Edwards,2018,52,0.0,0.0
+devon hall,Devon Hall,2018,53,-0.2,-0.1
+shake milton,Shake Milton,2018,54,11.7,-0.1
+arnoldas kulboka,Arnoldas Kulboka,2018,55,0.0,0.0
+ray spalding,Ray Spalding,2018,56,0.1,-0.2
+kevin hervey,Kevin Hervey,2018,57,-0.1,0.0
+thomas welsh,Thomas Welsh,2018,58,0.1,0.0
+george king,George King,2018,59,-0.1,-0.1
+kostas antetokounmpo,Kostas Antetokounmpo,2018,60,-0.2,-0.2
+zion williamson,Zion Williamson,2019,1,30.3,14.1
+ja morant,Ja Morant,2019,2,24.3,11.8
+rj barrett,RJ Barrett,2019,3,17.3,1.8
+de andre hunter,De'Andre Hunter,2019,4,13.1,-2.0
+darius garland,Darius Garland,2019,5,27.1,7.9
+jarrett culver,Jarrett Culver,2019,6,-0.1,-1.6
+coby white,Coby White,2019,7,19.9,1.7
+jaxson hayes,Jaxson Hayes,2019,8,25.1,3.5
+rui hachimura,Rui Hachimura,2019,9,18.7,0.1
+cam reddish,Cam Reddish,2019,10,3.3,-1.7
+cameron johnson,Cameron Johnson,2019,11,26.6,8.8
+p j washington,P.J. Washington,2019,12,16.5,2.6
+tyler herro,Tyler Herro,2019,13,22.3,9.0
+romeo langford,Romeo Langford,2019,14,2.0,-0.8
+sekou doumbouya,Sekou Doumbouya,2019,15,-0.4,-1.8
+chuma okeke,Chuma Okeke,2019,16,5.0,1.0
+nickeil alexander walker,Nickeil Alexander-Walker,2019,17,16.5,3.7
+goga bitadze,Goga Bitadze,2019,18,19.3,4.4
+luka samanic,Luka Šamanić,2019,19,0.0,-0.8
+matisse thybulle,Matisse Thybulle,2019,20,15.4,6.1
+brandon clarke,Brandon Clarke,2019,21,24.6,7.1
+grant williams,Grant Williams,2019,22,17.4,1.0
+darius bazley,Darius Bazley,2019,23,3.1,-0.6
+ty jerome,Ty Jerome,2019,24,11.2,3.3
+nassir little,Nassir Little,2019,25,4.7,-0.5
+dylan windler,Dylan Windler,2019,26,1.6,0.2
+mfiondu kabengele,Mfiondu Kabengele,2019,27,0.4,-0.2
+jordan poole,Jordan Poole,2019,28,11.4,0.4
+keldon johnson,Keldon Johnson,2019,29,23.2,3.2
+kevin porter,Kevin Porter Jr.,2019,30,9.0,2.5
+nic claxton,Nic Claxton,2019,31,30.9,8.2
+kz okpala,KZ Okpala,2019,32,1.0,-0.7
+carsen edwards,Carsen Edwards,2019,33,0.3,-0.5
+bruno fernando,Bruno Fernando,2019,34,3.8,-0.6
+didi louzada,Didi Louzada,2019,35,-0.1,-0.3
+cody martin,Cody Martin,2019,36,7.1,0.3
+deividas sirvydis,Deividas Sirvydis,2019,37,-0.1,-0.2
+daniel gafford,Daniel Gafford,2019,38,35.2,8.2
+alen smailagic,Alen Smailagić,2019,39,0.3,-0.1
+justin james,Justin James,2019,40,0.3,-0.2
+eric paschall,Eric Paschall,2019,41,5.0,-0.1
+admiral schofield,Admiral Schofield,2019,42,1.2,-0.9
+jaylen nowell,Jaylen Nowell,2019,43,4.7,-0.1
+bol bol,Bol Bol,2019,44,5.0,1.1
+isaiah roby,Isaiah Roby,2019,45,4.0,-0.2
+talen horton tucker,Talen Horton-Tucker,2019,46,6.0,0.0
+ignas brazdeikis,Ignas Brazdeikis,2019,47,0.4,-0.6
+terance mann,Terance Mann,2019,48,23.3,2.2
+quinndary weatherspoon,Quinndary Weatherspoon,2019,49,0.2,-0.2
+jarrell brantley,Jarrell Brantley,2019,50,0.6,0.1
+tremont waters,Tremont Waters,2019,51,0.1,-0.1
+jalen mcdaniels,Jalen McDaniels,2019,52,5.3,-1.5
+justin wright foreman,Justin Wright-Foreman,2019,53,0.0,-0.1
+marial shayok,Marial Shayok,2019,54,-0.1,-0.1
+kyle guy,Kyle Guy,2019,55,0.1,-0.3
+jaylen hands,Jaylen Hands,2019,56,0.0,0.0
+jordan bone,Jordan Bone,2019,57,0.1,-0.2
+miye oni,Miye Oni,2019,58,1.0,-0.1
+dewan hernandez,Dewan Hernandez,2019,59,0.0,-0.1
+vanja marinkovic,Vanja Marinković,2019,60,0.0,0.0
+anthony edwards,Anthony Edwards,2020,1,31.4,15.8
+james wiseman,James Wiseman,2020,2,4.3,-1.5
+lamelo ball,LaMelo Ball,2020,3,19.8,12.5
+patrick williams,Patrick Williams,2020,4,8.3,-1.4
+isaac okoro,Isaac Okoro,2020,5,18.2,-0.8
+onyeka okongwu,Onyeka Okongwu,2020,6,30.9,6.0
+killian hayes,Killian Hayes,2020,7,-0.4,-3.0
+obi toppin,Obi Toppin,2020,8,17.7,5.4
+deni avdija,Deni Avdija,2020,9,21.7,6.0
+jalen smith,Jalen Smith,2020,10,14.6,2.4
+devin vassell,Devin Vassell,2020,11,16.8,4.4
+tyrese haliburton,Tyrese Haliburton,2020,12,37.6,18.9
+kira lewis,Kira Lewis Jr.,2020,13,1.3,-0.6
+aaron nesmith,Aaron Nesmith,2020,14,11.2,-0.2
+cole anthony,Cole Anthony,2020,15,10.5,2.5
+isaiah stewart,Isaiah Stewart,2020,16,19.5,1.2
+aleksej pokusevski,Aleksej Pokusevski,2020,17,-0.2,-1.0
+josh green,Josh Green,2020,18,11.1,-1.2
+saddiq bey,Saddiq Bey,2020,19,20.0,4.3
+precious achiuwa,Precious Achiuwa,2020,20,14.8,-0.3
+tyrese maxey,Tyrese Maxey,2020,21,35.1,13.5
+zeke nnaji,Zeke Nnaji,2020,22,7.5,-0.7
+leandro bolmaro,Leandro Bolmaro,2020,23,-0.3,-0.5
+r j hampton,R.J. Hampton,2020,24,0.8,-1.4
+immanuel quickley,Immanuel Quickley,2020,25,27.9,9.2
+payton pritchard,Payton Pritchard,2020,26,29.4,8.5
+udoka azubuike,Udoka Azubuike,2020,27,2.0,0.1
+jaden mcdaniels,Jaden McDaniels,2020,28,23.1,1.5
+malachi flynn,Malachi Flynn,2020,29,2.9,-0.5
+desmond bane,Desmond Bane,2020,30,33.0,12.7
+tyrell terry,Tyrell Terry,2020,31,0.0,0.0
+vernon carey,Vernon Carey Jr.,2020,32,0.2,-0.2
+daniel oturu,Daniel Oturu,2020,33,0.3,-0.2
+theo maledon,Théo Maledon,2020,34,-0.2,-2.4
+xavier tillman,Xavier Tillman Sr.,2020,35,10.3,2.0
+tyler bey,Tyler Bey,2020,36,0.0,-0.1
+vit krejci,Vít Krejčí,2020,37,6.9,0.1
+saben lee,Saben Lee,2020,38,3.5,0.3
+elijah hughes,Elijah Hughes,2020,39,-0.4,-0.5
+robert woodard,Robert Woodard II,2020,40,-0.1,-0.1
+tre jones,Tre Jones,2020,41,20.3,4.0
+nick richards,Nick Richards,2020,42,13.9,-1.2
+jahmi us ramsey,Jahmi'us Ramsey,2020,43,-0.1,-0.3
+marko simonovic,Marko Simonovic,2020,44,0.0,-0.1
+jordan nwora,Jordan Nwora,2020,45,3.0,-0.7
+cj elleby,CJ Elleby,2020,46,0.5,-1.1
+yam madar,Yam Madar,2020,47,0.0,0.0
+nico mannion,Nico Mannion,2020,48,0.2,-0.2
+isaiah joe,Isaiah Joe,2020,49,19.0,4.6
+skylar mays,Skylar Mays,2020,50,2.1,0.4
+justinian jessup,Justinian Jessup,2020,51,0.0,0.0
+kj martin,KJ Martin,2020,52,12.4,0.4
+cassius winston,Cassius Winston,2020,53,0.1,-0.1
+cassius stanley,Cassius Stanley,2020,54,0.0,-0.4
+jay scrubb,Jay Scrubb,2020,55,-0.1,-0.3
+grant riller,Grant Riller,2020,56,0.1,0.0
+reggie perry,Reggie Perry,2020,57,0.4,-0.3
+paul reed,Paul Reed,2020,58,15.9,3.9
+jalen harris,Jalen Harris,2020,59,0.3,0.1
+sam merrill,Sam Merrill,2020,60,10.5,2.3
+cade cunningham,Cade Cunningham,2021,1,14.9,9.8
+jalen green,Jalen Green,2021,2,11.0,2.4
+evan mobley,Evan Mobley,2021,3,34.8,12.1
+scottie barnes,Scottie Barnes,2021,4,27.2,13.1
+jalen suggs,Jalen Suggs,2021,5,8.3,3.1
+josh giddey,Josh Giddey,2021,6,17.2,8.8
+jonathan kuminga,Jonathan Kuminga,2021,7,13.0,1.5
+franz wagner,Franz Wagner,2021,8,24.2,7.7
+davion mitchell,Davion Mitchell,2021,9,10.3,-1.3
+ziaire williams,Ziaire Williams,2021,10,6.2,-1.5
+james bouknight,James Bouknight,2021,11,-0.3,-0.9
+joshua primo,Joshua Primo,2021,12,-0.2,-0.9
+chris duarte,Chris Duarte,2021,13,1.9,-0.8
+moses moody,Moses Moody,2021,14,11.6,1.5
+corey kispert,Corey Kispert,2021,15,11.1,-0.6
+alperen sengun,Alperen Şengün,2021,16,30.5,13.4
+trey murphy,Trey Murphy III,2021,17,24.4,8.3
+tre mann,Tre Mann,2021,18,1.9,-1.8
+kai jones,Kai Jones,2021,19,2.8,0.2
+jalen johnson,Jalen Johnson,2021,20,15.9,7.2
+keon johnson,Keon Johnson,2021,21,-0.3,-1.7
+isaiah jackson,Isaiah Jackson,2021,22,10.3,1.3
+usman garuba,Usman Garuba,2021,23,2.3,0.2
+josh christopher,Josh Christopher,2021,24,0.2,-1.1
+quentin grimes,Quentin Grimes,2021,25,14.4,2.7
+bones hyland,Bones Hyland,2021,26,7.4,2.0
+cam thomas,Cam Thomas,2021,27,5.0,-0.4
+jaden springer,Jaden Springer,2021,28,1.4,-0.2
+day ron sharpe,Day'Ron Sharpe,2021,29,11.9,2.0
+santi aldama,Santi Aldama,2021,30,14.5,4.7
+isaiah todd,Isaiah Todd,2021,31,-0.3,-0.3
+jeremiah robinson earl,Jeremiah Robinson-Earl,2021,32,5.9,-0.4
+jason preston,Jason Preston,2021,33,0.1,0.0
+rokas jokubaitis,Rokas Jokubaitis,2021,34,0.0,0.0
+herbert jones,Herbert Jones,2021,35,16.4,2.6
+miles mcbride,Miles McBride,2021,36,10.5,2.0
+jt thor,JT Thor,2021,37,1.2,-1.5
+ayo dosunmu,Ayo Dosunmu,2021,38,17.5,2.0
+neemias queta,Neemias Queta,2021,39,14.2,2.8
+jared butler,Jared Butler,2021,40,2.5,0.3
+joe wieskamp,Joe Wieskamp,2021,41,0.1,-0.2
+isaiah livers,Isaiah Livers,2021,42,2.0,-0.7
+greg brown,Greg Brown III,2021,43,0.2,-0.6
+kessler edwards,Kessler Edwards,2021,44,2.7,-0.5
+juhann begarin,Juhann Begarin,2021,45,0.0,0.0
+dalano banton,Dalano Banton,2021,46,2.0,0.4
+david johnson,David Johnson,2021,47,0.0,0.0
+sharife cooper,Sharife Cooper,2021,48,0.4,-0.5
+marcus zegarowski,Marcus Zegarowski,2021,49,0.0,0.0
+filip petrusev,Filip Petrušev,2021,50,0.0,0.0
+brandon boston,Brandon Boston Jr.,2021,51,1.0,-1.0
+luka garza,Luka Garza,2021,52,8.2,1.3
+charles bassey,Charles Bassey,2021,53,4.5,0.9
+sandro mamukelashvili,Sandro Mamukelashvili,2021,54,11.4,3.2
+aaron wiggins,Aaron Wiggins,2021,55,15.0,1.9
+scottie lewis,Scottie Lewis,2021,56,0.0,0.0
+balsa koprivica,Balša Koprivica,2021,57,0.0,0.0
+jericho sims,Jericho Sims,2021,58,10.1,-0.1
+raiquan gray,RaiQuan Gray,2021,59,0.2,0.1
+georgios kalaitzakis,Georgios Kalaitzakis,2021,60,-0.1,-0.3
+paolo banchero,Paolo Banchero,2022,1,16.1,7.1
+chet holmgren,Chet Holmgren,2022,2,21.2,7.4
+jabari smith,Jabari Smith Jr.,2022,3,18.3,1.4
+keegan murray,Keegan Murray,2022,4,14.1,1.6
+jaden ivey,Jaden Ivey,2022,5,2.9,-0.6
+bennedict mathurin,Bennedict Mathurin,2022,6,8.3,-2.2
+shaedon sharpe,Shaedon Sharpe,2022,7,5.9,-0.2
+dyson daniels,Dyson Daniels,2022,8,15.8,5.3
+jeremy sochan,Jeremy Sochan,2022,9,5.4,-1.1
+johnny davis,Johnny Davis,2022,10,-0.4,-1.3
+ousmane dieng,Ousmane Dieng,2022,11,2.0,-0.7
+jalen williams,Jalen Williams,2022,12,23.8,8.2
+jalen duren,Jalen Duren,2022,13,29.5,7.5
+ochai agbaji,Ochai Agbaji,2022,14,5.5,-1.3
+mark williams,Mark Williams,2022,15,16.0,3.8
+aj griffin,AJ Griffin,2022,16,1.8,0.1
+tari eason,Tari Eason,2022,17,11.8,2.8
+dalen terry,Dalen Terry,2022,18,3.1,-0.3
+jake laravia,Jake LaRavia,2022,19,8.2,0.9
+malaki branham,Malaki Branham,2022,20,0.1,-2.9
+christian braun,Christian Braun,2022,21,16.4,1.8
+walker kessler,Walker Kessler,2022,22,17.1,5.1
+david roddy,David Roddy,2022,23,2.0,-1.4
+marjon beauchamp,MarJon Beauchamp,2022,24,1.4,-0.7
+blake wesley,Blake Wesley,2022,25,-0.2,-2.2
+wendell moore,Wendell Moore Jr.,2022,26,1.0,-0.1
+nikola jovic,Nikola Jović,2022,27,4.7,0.8
+patrick baldwin,Patrick Baldwin Jr.,2022,28,0.7,-0.3
+tyty washington,TyTy Washington Jr.,2022,29,-0.2,-0.7
+peyton watson,Peyton Watson,2022,30,7.8,0.3
+andrew nembhard,Andrew Nembhard,2022,31,8.9,-0.2
+caleb houstan,Caleb Houstan,2022,32,4.2,-0.4
+christian koloko,Christian Koloko,2022,33,2.9,-0.6
+jaylin williams,Jaylin Williams,2022,34,11.7,3.6
+max christie,Max Christie,2022,35,6.7,-0.6
+gabriele procida,Gabriele Procida,2022,36,0.0,0.0
+jaden hardy,Jaden Hardy,2022,37,0.5,-1.8
+kennedy chandler,Kennedy Chandler,2022,38,0.5,-0.4
+khalifa diop,Khalifa Diop,2022,39,0.0,0.0
+bryce mcgowens,Bryce McGowens,2022,40,2.3,-1.7
+e j liddell,E.J. Liddell,2022,41,0.6,-0.2
+trevor keels,Trevor Keels,2022,42,-0.1,-0.1
+moussa diabate,Moussa Diabaté,2022,43,11.4,1.9
+ryan rollins,Ryan Rollins,2022,44,5.1,1.6
+josh minott,Josh Minott,2022,45,4.0,1.4
+ismael kamagate,Ismael Kamagate,2022,46,0.0,0.0
+vince williams,Vince Williams Jr.,2022,47,3.2,0.4
+kendall brown,Kendall Brown,2022,48,0.1,-0.1
+isaiah mobley,Isaiah Mobley,2022,49,0.3,0.0
+matteo spagnolo,Matteo Spagnolo,2022,50,0.0,0.0
+tyrese martin,Tyrese Martin,2022,51,1.0,-0.5
+karlo matkovic,Karlo Matković,2022,52,4.3,0.6
+jd davison,JD Davison,2022,53,0.6,0.0
+yannick nzosa,Yannick Nzosa,2022,54,0.0,0.0
+gui santos,Gui Santos,2022,55,5.2,0.7
+luke travers,Luke Travers,2022,56,-0.1,-0.2
+jabari walker,Jabari Walker,2022,57,6.8,-1.1
+hugo besson,Hugo Besson,2022,58,0.0,0.0
+victor wembanyama,Victor Wembanyama,2023,1,17.5,13.0
+brandon miller,Brandon Miller,2023,2,5.7,1.9
+scoot henderson,Scoot Henderson,2023,3,1.1,-1.8
+amen thompson,Amen Thompson,2023,4,22.6,8.2
+ausar thompson,Ausar Thompson,2023,5,11.3,3.6
+anthony black,Anthony Black,2023,6,6.7,0.5
+bilal coulibaly,Bilal Coulibaly,2023,7,1.7,-1.8
+jarace walker,Jarace Walker,2023,8,2.5,0.3
+taylor hendricks,Taylor Hendricks,2023,9,2.4,-0.1
+cason wallace,Cason Wallace,2023,10,14.4,4.0
+jett howard,Jett Howard,2023,11,1.4,-0.5
+dereck lively,Dereck Lively II,2023,12,8.7,2.0
+gradey dick,Gradey Dick,2023,13,3.1,-2.0
+jordan hawkins,Jordan Hawkins,2023,14,0.3,-2.2
+kobe bufkin,Kobe Bufkin,2023,15,-0.2,-0.4
+keyonte george,Keyonte George,2023,16,4.0,-0.3
+jalen hood schifino,Jalen Hood-Schifino,2023,17,-0.6,-0.8
+jaime jaquez,Jaime Jaquez Jr.,2023,18,10.5,1.6
+brandin podziemski,Brandin Podziemski,2023,19,13.4,3.4
+cam whitmore,Cam Whitmore,2023,20,3.3,0.8
+noah clowney,Noah Clowney,2023,21,2.4,-1.0
+dariq whitehead,Dariq Whitehead,2023,22,-0.1,-0.4
+kris murray,Kris Murray,2023,23,3.6,-0.6
+olivier maxence prosper,Olivier-Maxence Prosper,2023,24,3.8,0.4
+marcus sasser,Marcus Sasser,2023,25,3.6,0.1
+ben sheppard,Ben Sheppard,2023,26,4.3,-0.7
+nick smith,Nick Smith Jr.,2023,27,-1.0,-2.3
+brice sensabaugh,Brice Sensabaugh,2023,28,2.0,-0.5
+julian strawther,Julian Strawther,2023,29,2.7,-1.5
+kobe brown,Kobe Brown,2023,30,2.3,-0.3
+james nnaji,James Nnaji,2023,31,0.0,0.0
+jalen pickett,Jalen Pickett,2023,32,2.2,0.0
+leonard miller,Leonard Miller,2023,33,2.0,0.3
+colby jones,Colby Jones,2023,34,0.6,-0.2
+julian phillips,Julian Phillips,2023,35,2.5,-0.7
+andre jackson,Andre Jackson Jr.,2023,36,1.8,-1.1
+hunter tyson,Hunter Tyson,2023,37,0.4,-0.6
+jordan walsh,Jordan Walsh,2023,38,4.3,0.5
+mouhamed gueye,Mouhamed Gueye,2023,39,4.1,0.4
+maxwell lewis,Maxwell Lewis,2023,40,-0.2,-0.5
+amari bailey,Amari Bailey,2023,41,-0.1,-0.1
+tristan vukcevic,Tristan Vukcevic,2023,42,1.6,0.5
+rayan rupert,Rayan Rupert,2023,43,0.5,-1.9
+sidy cissoko,Sidy Cissoko,2023,44,1.6,-0.8
+gg jackson,GG Jackson II,2023,45,2.6,-0.2
+seth lundy,Seth Lundy,2023,46,-0.1,-0.1
+mojave king,Mojave King,2023,47,0.0,0.0
+jordan miller,Jordan Miller,2023,48,4.0,0.7
+emoni bates,Emoni Bates,2023,49,-0.2,-0.2
+keyontae johnson,Keyontae Johnson,2023,50,-0.1,-0.1
+jalen wilson,Jalen Wilson,2023,51,3.2,-1.9
+toumani camara,Toumani Camara,2023,52,11.9,1.4
+jaylen clark,Jaylen Clark,2023,53,3.3,0.1
+jalen slawson,Jalen Slawson,2023,54,0.5,0.1
+isaiah wong,Isaiah Wong,2023,55,0.0,-0.1
+tarik biberovic,Tarik Biberovic,2023,56,0.0,0.0
+trayce jackson davis,Trayce Jackson-Davis,2023,57,9.6,2.3
+chris livingston,Chris Livingston,2023,58,0.2,-0.3
+zaccharie risacher,Zaccharie Risacher,2024,1,4.1,-0.9
+alex sarr,Alex Sarr,2024,2,1.3,0.3
+reed sheppard,Reed Sheppard,2024,3,6.6,2.6
+stephon castle,Stephon Castle,2024,4,6.9,1.4
+ron holland,Ron Holland,2024,5,4.6,-0.3
+tidjane salaun,Tidjane Salaün,2024,6,1.5,-0.8
+donovan clingan,Donovan Clingan,2024,7,12.6,3.2
+rob dillingham,Rob Dillingham,2024,8,-1.0,-1.6
+zach edey,Zach Edey,2024,9,5.6,0.9
+cody williams,Cody Williams,2024,10,-1.0,-2.9
+matas buzelis,Matas Buzelis,2024,11,4.4,0.4
+nikola topic,Nikola Topić,2024,12,0.0,-0.3
+devin carter,Devin Carter,2024,13,0.5,-0.2
+bub carrington,Bub Carrington,2024,14,-0.2,-3.2
+kel el ware,Kel'el Ware,2024,15,10.3,2.4
+jared mccain,Jared McCain,2024,16,2.2,0.2
+dalton knecht,Dalton Knecht,2024,17,3.1,-0.2
+tristan da silva,Tristan Da Silva,2024,18,5.8,0.4
+ja kobe walter,Ja'Kobe Walter,2024,19,4.9,0.4
+jaylon tyson,Jaylon Tyson,2024,20,4.8,0.9
+yves missi,Yves Missi,2024,21,6.3,-0.4
+daron holmes,DaRon Holmes,2024,22,0.4,0.1
+aj johnson,AJ Johnson,2024,23,-1.3,-1.8
+kyshawn george,Kyshawn George,2024,24,0.8,-0.7
+pacome dadiet,Pacôme Dadiet,2024,25,0.2,-0.2
+dillon jones,Dillon Jones,2024,26,0.9,-0.3
+terrence shannon,Terrence Shannon Jr.,2024,27,1.6,-0.2
+ryan dunn,Ryan Dunn,2024,28,3.6,-0.4
+isaiah collier,Isaiah Collier,2024,29,0.9,-1.7
+baylor scheierman,Baylor Scheierman,2024,30,4.6,1.0
+jonathan mogbo,Jonathan Mogbo,2024,31,2.5,0.1
+kyle filipowski,Kyle Filipowski,2024,32,5.5,0.8
+tyler smith,Tyler Smith,2024,33,0.4,-0.1
+tyler kolek,Tyler Kolek,2024,34,1.8,0.2
+johnny furphy,Johnny Furphy,2024,35,1.0,-0.3
+juan nunez,Juan Nunez,2024,36,0.0,0.0
+bobi klintman,Bobi Klintman,2024,37,0.1,-0.1
+ajay mitchell,Ajay Mitchell,2024,38,6.3,1.5
+jaylen wells,Jaylen Wells,2024,39,5.1,-0.6
+oso ighodaro,Oso Ighodaro,2024,40,6.3,0.8
+adem bona,Adem Bona,2024,41,5.2,-0.4
+kj simpson,KJ Simpson,2024,42,-0.6,-0.9
+nikola djurisic,Nikola Djurisic,2024,43,0.0,0.0
+pelle larsson,Pelle Larsson,2024,44,5.5,0.2
+jamal shead,Jamal Shead,2024,45,3.5,-0.9
+cam christie,Cam Christie,2024,46,0.2,-0.3
+antonio reeves,Antonio Reeves,2024,47,0.6,-0.1
+harrison ingram,Harrison Ingram,2024,48,0.2,0.0
+tristen newton,Tristen Newton,2024,49,0.0,0.0
+enrique freeman,Enrique Freeman,2024,50,0.3,-0.2
+melvin ajinca,Melvin Ajinça,2024,51,0.0,0.0
+quinten post,Quinten Post,2024,52,3.5,0.6
+cam spencer,Cam Spencer,2024,53,6.1,2.0
+anton watson,Anton Watson,2024,54,0.0,0.0
+bronny james,Bronny James,2024,55,0.0,-0.5
+kevin mccullar,Kevin McCullar Jr.,2024,56,0.2,-0.1
+ulrich chomche,Ulrich Chomche,2024,57,0.0,0.0
+ariel hukporti,Ariel Hukporti,2024,58,1.3,-0.2
